@@ -6,7 +6,7 @@ page-type: glossary-definition
 
 {{GlossarySidebar}}
 
-**Prototype-based programming** is a style of {{Glossary("OOP", "object-oriented programming")}} in which {{Glossary('Class', 'classes')}} are not explicitly defined, but rather derived by adding properties and methods to an instance of another class or, less frequently, adding them to an empty object.
+A prototype-based language is a type of programming language that is centered around the concept of prototypes for object-oriented programming. In a prototype-based language, objects are not instantiated from classes as in class-based languages (like Java or C++); instead, objects are created by cloning existing objects, which serve as prototypes.
 
 In simple words: this type of style allows the creation of an {{Glossary('Object', 'object')}} without first defining its {{Glossary('Class', 'class')}}.
 
